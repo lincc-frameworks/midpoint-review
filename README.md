@@ -2,13 +2,13 @@
 
 [![Template](https://img.shields.io/badge/Template-LINCC%20Frameworks%20Python%20Project%20Template-brightgreen)](https://lincc-ppt.readthedocs.io/en/latest/)
 
-[![Read The Docs](https://img.shields.io/readthedocs/lfw-mpr)](https://lfw-mpr.readthedocs.io/)
+[![Read The Docs](https://img.shields.io/readthedocs/lfw-mpr)](https://linccfw-review.readthedocs.io/)
 
 This project was automatically generated using the LINCC-Frameworks 
 [python-project-template](https://github.com/lincc-frameworks/python-project-template).
 
 This repo aggregates materials used in the LINCC Frameworks midpoint review. 
-Materials can be found at the resulting site: https://lfw-mpr.readthedocs.io/
+Materials can be found at the resulting site: https://linccfw-review.readthedocs.io/
 
 
 ## Acknowledgements

@@ -7,15 +7,15 @@ This demo showcases working with HATS-partitioned survey catalogs via LSDB.
 Main references
 ---------------------------------------------------------------
 
-* `Slide deck <https://docs.google.com/presentation/d/1l0f3MMwpsQUn4JFcAKxlYRQ5eVZrlKJKtWheTq-lRXU/edit?usp=sharing>`_
-* LSDB (`on GitHub <https://github.com/astronomy-commons/lsdb>`_) 
-  (`on ReadTheDocs <https://lsdb.readthedocs.io/en/stable/>`_)
-* HATS (`on GitHub <https://github.com/astronomy-commons/hats>`_)
-  (`on ReadTheDocs <https://hats.readthedocs.io/en/stable/>`_)
-* nested-dask (`on GitHub <https://github.com/lincc-frameworks/nested-dask>`_) 
-  (`on ReadTheDocs <https://nested-dask.readthedocs.io/en/stable/>`_)
-* nested-pandas (`on GitHub <https://github.com/lincc-frameworks/nested-pandas>`_) 
-  (`on ReadTheDocs <https://nested-pandas.readthedocs.io/en/stable/>`_)
+* `Slide deck <https://docs.google.com/presentation/d/1l0f3MMwpsQUn4JFcAKxlYRQ5eVZrlKJKtWheTq-lRXU/edit?usp=sharing>`__
+* LSDB (`on GitHub <https://github.com/astronomy-commons/lsdb>`__) 
+  (`on ReadTheDocs <https://lsdb.readthedocs.io/en/stable/>`__)
+* HATS (`on GitHub <https://github.com/astronomy-commons/hats>`__)
+  (`on ReadTheDocs <https://hats.readthedocs.io/en/stable/>`__)
+* nested-dask (`on GitHub <https://github.com/lincc-frameworks/nested-dask>`__) 
+  (`on ReadTheDocs <https://nested-dask.readthedocs.io/en/stable/>`__)
+* nested-pandas (`on GitHub <https://github.com/lincc-frameworks/nested-pandas>`__) 
+  (`on ReadTheDocs <https://nested-pandas.readthedocs.io/en/stable/>`__)
 
 
 Getting Started 
