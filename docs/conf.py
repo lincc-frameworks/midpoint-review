@@ -38,4 +38,6 @@ copybutton_selector = "div:not(.no-copybutton) > div.highlight > pre"
 # This assumes that sphinx-build is called from the root directory
 master_doc = "index"
 
+html_logo = "_static/lincc-fw.png"
+html_title = "LINCC Frameworks"
 html_theme = "sphinx_book_theme"

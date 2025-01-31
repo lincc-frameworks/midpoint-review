@@ -7,7 +7,7 @@ This demo showcases working with HATS-partitioned survey catalogs via LSDB.
 Main references
 ---------------------------------------------------------------
 
-* `Slide deck <https://docs.google.com/presentation/d/1l0f3MMwpsQUn4JFcAKxlYRQ5eVZrlKJKtWheTq-lRXU/edit?usp=sharing>`__
+* `Slide deck <https://docs.google.com/presentation/d/1l0f3MMwpsQUn4JFcAKxlYRQ5eVZrlKJKtWheTq-lRXU/>`__
 * LSDB (`on GitHub <https://github.com/astronomy-commons/lsdb>`__) 
   (`on ReadTheDocs <https://lsdb.readthedocs.io/en/stable/>`__)
 * HATS (`on GitHub <https://github.com/astronomy-commons/hats>`__)
