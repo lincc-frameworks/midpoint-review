@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier
+_commit: v2.0.5
+_src_path: gh:lincc-frameworks/python-project-template
+author_email: lincc-frameworks-team@lists.lsst.org
+author_name: LINCC Frameworks
+create_example_module: false
+custom_install: true
+enforce_style: []
+failure_notification: []
+include_benchmarks: false
+include_docs: true
+include_notebooks: true
+mypy_type_checking: none
+package_name: lfw_mpr
+project_license: MIT
+project_name: lfw-mpr
+project_organization: lincc-frameworks
+python_versions:
+- '3.11'
