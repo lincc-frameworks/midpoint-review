@@ -13,7 +13,7 @@ from importlib.metadata import version
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "LINCC Frameworks"
-copyright = "2024, LINCC Frameworks"
+copyright = "2025, LINCC Frameworks"
 author = "LINCC Frameworks"
 version = "review"
 
