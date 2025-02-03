@@ -23,7 +23,7 @@ version = "review"
 extensions = ["sphinx.ext.mathjax"]
 
 extensions.append("nbsphinx")
-nbsphinx_execute = 'never'
+nbsphinx_execute = "never"
 
 # -- sphinx-copybutton configuration ----------------------------------------
 extensions.append("sphinx_copybutton")
