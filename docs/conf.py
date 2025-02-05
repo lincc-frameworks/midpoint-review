@@ -41,3 +41,6 @@ master_doc = "index"
 html_logo = "_static/lincc-fw.png"
 html_title = "LINCC Frameworks"
 html_theme = "sphinx_book_theme"
+html_theme_options = {
+  "show_toc_level": 2
+}
