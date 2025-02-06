@@ -1,3 +1,4 @@
 lsdb
 hats
 graphviz
+universal-pathlib
