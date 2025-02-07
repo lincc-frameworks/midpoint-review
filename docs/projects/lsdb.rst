@@ -27,11 +27,11 @@ You can follow along with this demo by creating your own local environment.
 
 If installing in your own hardware, create a virtual environment and install the relevant packages:
 
-```
->> conda create --name lincc python=3.12
->> conda activate lincc
->> pip install lsdb pyvo ipyaladin cesium scikit-learn aiohttp
-```
+.. code-block:: bash
+
+    >> conda create --name lincc python=3.12
+    >> conda activate lincc
+    >> pip install lsdb pyvo ipyaladin cesium scikit-learn aiohttp
 
 Notebooks
 ---------------------------------------------------------------
