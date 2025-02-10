@@ -102,7 +102,7 @@ Thursday, Feb 20
      - 
 
 **(*)** Slide PDFs will be made available to the review committee, via this
-`shared drive folder <https://drive.google.com/drive/folders/1bNHxi8qNDNNYMcQhjHKBssYEAb5i93zS>`__
+`shared drive folder <https://drive.google.com/drive/folders/1bNHxi8qNDNNYMcQhjHKBssYEAb5i93zS>`__  If you need access to the shared drive, please contact Jeremy Kubica, Rachel Mandelbaum, or Andrew Connolly.
 
 .. toctree::
    :hidden:
