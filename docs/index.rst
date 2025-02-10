@@ -59,10 +59,10 @@ Wednesday, Feb 19
      - TODO
    * - 
      - Image analysis (Aritra)
-     - TODO
+     - `Slides <https://drive.google.com/file/d/1M_z9W650Zf2l_g9S31Bmct91IJQEjG4N/view?usp=drive_link>`__
    * - 
      - RAIL (Alice)
-     - TODO
+     - `Slides <https://drive.google.com/file/d/1pQCGQNq6ftB5byIzbY7c799Q7LjJHO9A/view?usp=drive_link>`__
    * - 
      - HATS and LSDB Science Enabled (Kostantin)
      - `Slides <https://drive.google.com/file/d/1Foy999YoQppXSHSBRQNcRqXghYIE9qYM/view?usp=drive_link>`__
@@ -96,7 +96,7 @@ Thursday, Feb 20
      - 
    * - 1:30pm - 2:30pm
      - Lessons for large-scale community software efforts
-     - TODO
+     - `Slides <https://drive.google.com/file/d/1YlD3MLIKKt1HcD8wKClTGzTMbb1nOdxj/view?usp=drive_link>`__
    * - 2:30pm - 3:30pm
      - Overflow Time / Coffee & Informal Discussions
      - 
