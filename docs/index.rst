@@ -58,14 +58,14 @@ Wednesday, Feb 19
      - Dippers (Andy T)
      - TODO
    * - 
-     - HATS and LSDB Science Enabled (Kostantin)
-     - `PDF <https://drive.google.com/file/d/1Foy999YoQppXSHSBRQNcRqXghYIE9qYM/view?usp=drive_link>`__
-   * - 
      - Image analysis (Aritra)
      - TODO
    * - 
      - RAIL (Alice)
      - TODO
+   * - 
+     - HATS and LSDB Science Enabled (Kostantin)
+     - `PDF <https://drive.google.com/file/d/1Foy999YoQppXSHSBRQNcRqXghYIE9qYM/view?usp=drive_link>`__
 
 Thursday, Feb 20
 ---------------------------------------------------------------
