@@ -44,7 +44,7 @@ Wednesday, Feb 19
      - `Slides <https://drive.google.com/file/d/1aiwiw9CE-9sdy1kEsNEcMn8jQO7B34xE/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/nested/review_demo.html>`__
    * - 
      - RAIL
-     - Slides , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/rail/rail_hsc.html>`__
+     - `Slides <https://drive.google.com/file/d/1ZAttrPqA4q3S7Qwxxz_A7JMlBZwDRefi/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/rail/rail_hsc.html>`__
    * - 
      - KBMOD
      - Slides , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/kbmod/kbmod_usdf.html>`__
@@ -56,7 +56,7 @@ Wednesday, Feb 19
      - 
    * - 
      - Dippers (Andy T)
-     - TODO
+     - `Slides <https://drive.google.com/file/d/1zVc4TpM_tMJJQQnGJ6mqAbDU5YFvyfmO/view?usp=drive_link>`__`
    * - 
      - Image analysis (Aritra)
      - `Slides <https://drive.google.com/file/d/1M_z9W650Zf2l_g9S31Bmct91IJQEjG4N/view?usp=drive_link>`__
