@@ -6,7 +6,7 @@ Demonstration prepared for the MidPoint Review of LINCC Frameworks, Pittsburgh, 
 Main references
 ---------------------------------------------------------------
 
-* `Slide deck <https://docs.google.com/presentation/d/1kmTT2Prg4csSsq_HjkzYH8Vb_y4wTWSXeZR-ESu33Ug/>`__
+* `Slide deck <https://drive.google.com/file/d/1aiwiw9CE-9sdy1kEsNEcMn8jQO7B34xE/view?usp=drive_link>`__
 
 Notebooks
 ---------------------------------------------------------------
