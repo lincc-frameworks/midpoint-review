@@ -6,7 +6,7 @@ To take place at CMU in Pittsburgh, PA. February 19-20, 2025
 If this is your first time visiting CMU, or the LINCC Frameworks offices, we have some
 tips in our :doc:`visitor guide <visitor_guide>`.
 
-For logistics information, please see the `logistics document <https://docs.google.com/document/d/1Wzq8A4PJgpE_tzb3es7EBBojYrMghovcHZXQzHal7KI>` in the shared folder (non-world readable).
+For logistics information, please see the `logistics document <https://docs.google.com/document/d/1Wzq8A4PJgpE_tzb3es7EBBojYrMghovcHZXQzHal7KI>`__ in the shared folder (non-world readable).
 
 
 Wednesday, Feb 19
