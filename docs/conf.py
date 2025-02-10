@@ -41,3 +41,6 @@ master_doc = "index"
 html_logo = "_static/lincc-fw.png"
 html_title = "LINCC Frameworks"
 html_theme = "sphinx_book_theme"
+html_favicon = "_static/lincc-fw.png"
+html_static_path = ["_static"]
+html_css_files = ["custom.css"]
