@@ -6,7 +6,6 @@ Demonstration prepared for the MidPoint Review of LINCC Frameworks, Pittsburgh, 
 Main references
 ---------------------------------------------------------------
 
-* `Slide deck <https://docs.google.com/presentation/d/1PWEYarZAhKLE8AKfij944yKjbsr33dw8HoYlGaLwEEM/>`__
 * FIBAD (`on GitHub <https://github.com/lincc-frameworks/fibad>`__)(`on ReadTheDocs <https://fibad.readthedocs.io/>`__)
 
 Notebooks
