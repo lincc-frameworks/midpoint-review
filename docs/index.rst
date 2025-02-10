@@ -38,13 +38,13 @@ Wednesday, Feb 19
      - 
    * - 
      - HATS and LSDB
-     - `PDF <https://drive.google.com/file/d/1R0KaTojKle0cdTo-XlXkLohx7DN_A8bt/view?usp=drive_link>`__
+     - `PDF <https://drive.google.com/file/d/1R0KaTojKle0cdTo-XlXkLohx7DN_A8bt/view?usp=drive_link>`__ , `Notebook <https://github.com/lincc-frameworks/midpoint-review/blob/main/docs/notebooks/lsdb/Notebook_LSDB_HATS.ipynb>`__
    * - 
      - nested
      - `PDF <https://drive.google.com/file/d/1aiwiw9CE-9sdy1kEsNEcMn8jQO7B34xE/view?usp=drive_link>`__ , `Notebook <https://github.com/lincc-frameworks/midpoint-review/blob/main/docs/notebooks/nested/review_demo.ipynb>`__
    * - 
      - RAIL
-     - TODO
+     - PDF , `Notebook <https://github.com/lincc-frameworks/midpoint-review/blob/main/docs/notebooks/rail/rail_hsc.ipynb>`__
    * - 
      - KBMOD
      - TODO
