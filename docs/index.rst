@@ -38,13 +38,13 @@ Wednesday, Feb 19
      - 
    * - 
      - HATS and LSDB
-     - `PDF <https://drive.google.com/file/d/1R0KaTojKle0cdTo-XlXkLohx7DN_A8bt/view?usp=drive_link>`__ , `Notebook <https://github.com/lincc-frameworks/midpoint-review/blob/main/docs/notebooks/lsdb/Notebook_LSDB_HATS.ipynb>`__
+     - `PDF <https://drive.google.com/file/d/1R0KaTojKle0cdTo-XlXkLohx7DN_A8bt/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/lsdb/Notebook_LSDB_HATS.html>`__
    * - 
      - nested
-     - `PDF <https://drive.google.com/file/d/1aiwiw9CE-9sdy1kEsNEcMn8jQO7B34xE/view?usp=drive_link>`__ , `Notebook <https://github.com/lincc-frameworks/midpoint-review/blob/main/docs/notebooks/nested/review_demo.ipynb>`__
+     - `PDF <https://drive.google.com/file/d/1aiwiw9CE-9sdy1kEsNEcMn8jQO7B34xE/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/nested/review_demo.html>`__
    * - 
      - RAIL
-     - PDF , `Notebook <https://github.com/lincc-frameworks/midpoint-review/blob/main/docs/notebooks/rail/rail_hsc.ipynb>`__
+     - PDF , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/rail/rail_hsc.html>`__
    * - 
      - KBMOD
      - TODO
@@ -84,7 +84,7 @@ Thursday, Feb 20
      -
    * -
      - FIBAD
-     - `PDF <https://drive.google.com/file/d/1ZvQFDS3vCqCIIN4UOlqikymwKkQxIe9q/view?usp=drive_link>`__ , `Notebook <https://github.com/lincc-frameworks/midpoint-review/blob/main/docs/notebooks/fibad/fibad_demo.ipynb>`__
+     - `PDF <https://drive.google.com/file/d/1ZvQFDS3vCqCIIN4UOlqikymwKkQxIe9q/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/fibad/fibad_demo.html>`__
    * - 10:00am - 11:00am
      - Incubator Projects & Code Demonstration Session 
      - `PDF <https://drive.google.com/file/d/1yj7tE9mRV_-qiPWgVC3urBiCDfBhLNPn/view?usp=drive_link>`__
