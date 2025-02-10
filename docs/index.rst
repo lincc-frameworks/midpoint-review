@@ -26,10 +26,10 @@ Wednesday, Feb 19
      - 
    * - 9:30am - 11:00am
      - Overview of project organization, goals and progress
-     - `TODO <https://drive.google.com/drive/folders/1bNHxi8qNDNNYMcQhjHKBssYEAb5i93zS>`__
+     - `Slides <https://drive.google.com/file/d/1zSym-zlkSws15sLGENhL4gogEOpmUrIY/view?usp=drive_link>`__
    * - 11:00am - 12:00pm
      - Education & Community Training
-     - `PDF <https://drive.google.com/file/d/1T8v_vXuykA6e4ZTy6r4wVTpd3UGo2dY2/view?usp=drive_link>`__
+     - `Slides <https://drive.google.com/file/d/1T8v_vXuykA6e4ZTy6r4wVTpd3UGo2dY2/view?usp=drive_link>`__
    * - 12:00pm - 1:00pm
      - Lunch break
      - 
@@ -38,13 +38,13 @@ Wednesday, Feb 19
      - 
    * - 
      - HATS and LSDB
-     - `PDF <https://drive.google.com/file/d/1R0KaTojKle0cdTo-XlXkLohx7DN_A8bt/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/lsdb/Notebook_LSDB_HATS.html>`__
+     - `Slides <https://drive.google.com/file/d/1R0KaTojKle0cdTo-XlXkLohx7DN_A8bt/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/lsdb/Notebook_LSDB_HATS.html>`__
    * - 
      - nested
-     - `PDF <https://drive.google.com/file/d/1aiwiw9CE-9sdy1kEsNEcMn8jQO7B34xE/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/nested/review_demo.html>`__
+     - `Slides <https://drive.google.com/file/d/1aiwiw9CE-9sdy1kEsNEcMn8jQO7B34xE/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/nested/review_demo.html>`__
    * - 
      - RAIL
-     - PDF , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/rail/rail_hsc.html>`__
+     - Slides , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/rail/rail_hsc.html>`__
    * - 
      - KBMOD
      - TODO
@@ -65,7 +65,7 @@ Wednesday, Feb 19
      - TODO
    * - 
      - HATS and LSDB Science Enabled (Kostantin)
-     - `PDF <https://drive.google.com/file/d/1Foy999YoQppXSHSBRQNcRqXghYIE9qYM/view?usp=drive_link>`__
+     - `Slides <https://drive.google.com/file/d/1Foy999YoQppXSHSBRQNcRqXghYIE9qYM/view?usp=drive_link>`__
 
 Thursday, Feb 20
 ---------------------------------------------------------------
@@ -80,17 +80,17 @@ Thursday, Feb 20
      - Response to Questions from Day 1 
      - 
    * - 9:30am - 10:00am
-     - Infrastructure Projects & Code Demonstration Session 2
+     - Infrastructure Projects & Code Demonstration (Continued)
      -
    * -
      - FIBAD
-     - `PDF <https://drive.google.com/file/d/1ZvQFDS3vCqCIIN4UOlqikymwKkQxIe9q/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/fibad/fibad_demo.html>`__
+     - `Slides <https://drive.google.com/file/d/1ZvQFDS3vCqCIIN4UOlqikymwKkQxIe9q/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/fibad/fibad_demo.html>`__
    * - 10:00am - 11:00am
      - Incubator Projects & Code Demonstration Session 
-     - `PDF <https://drive.google.com/file/d/1yj7tE9mRV_-qiPWgVC3urBiCDfBhLNPn/view?usp=drive_link>`__
+     - `Slides <https://drive.google.com/file/d/1yj7tE9mRV_-qiPWgVC3urBiCDfBhLNPn/view?usp=drive_link>`__
    * - 11:00am - 12:00pm
      - Challenges faced and mitigations implemented 
-     - `PDF <https://drive.google.com/file/d/1pyPH4vubE13WEjmuO-QqaXr1bFTltcH1/view?usp=drive_link>`__
+     - `Slides <https://drive.google.com/file/d/1pyPH4vubE13WEjmuO-QqaXr1bFTltcH1/view?usp=drive_link>`__
    * - 12:00pm - 1:30pm
      - Lunch break + Group Photo 
      - 
