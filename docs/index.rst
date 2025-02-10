@@ -6,6 +6,8 @@ To take place at CMU in Pittsburgh, PA. February 19-20, 2025
 If this is your first time visiting CMU, or the LINCC Frameworks offices, we have some
 tips in our :doc:`visitor guide <visitor_guide>`.
 
+For logistics information, please see the `logistics document <https://docs.google.com/document/d/1Wzq8A4PJgpE_tzb3es7EBBojYrMghovcHZXQzHal7KI>` in the shared folder (non-world readable).
+
 
 Wednesday, Feb 19
 ---------------------------------------------------------------
@@ -35,19 +37,16 @@ Wednesday, Feb 19
      - Infrastructure Projects & Code Demonstration Session
      - 
    * - 
-     - FIBAD
-     - TODO
-   * - 
-     - KBMOD
-     - TODO
-   * - 
      - HATS and LSDB
-     - TODO
+     - `PDF <https://drive.google.com/file/d/1R0KaTojKle0cdTo-XlXkLohx7DN_A8bt/view?usp=drive_link>`__
    * - 
      - nested
      - TODO
    * - 
      - RAIL
+     - TODO
+   * - 
+     - KBMOD
      - TODO
    * - 3:00pm - 3:15pm
      - Coffee break
@@ -80,7 +79,10 @@ Thursday, Feb 20
    * - 9:00am - 9:30am
      - Response to Questions from Day 1 
      - 
-   * - 9:30am - 11:00am
+   * - 9:30am - 10:00am
+     - Infrastructure Projects & Code Demonstration Session 2: FIBAD
+     - TODO
+   * - 10:00am - 11:00am
      - Incubator Projects & Code Demonstration Session 
      - `PDF <https://drive.google.com/file/d/1yj7tE9mRV_-qiPWgVC3urBiCDfBhLNPn/view?usp=drive_link>`__
    * - 11:00am - 12:00pm
