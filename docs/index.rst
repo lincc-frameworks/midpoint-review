@@ -56,7 +56,7 @@ Wednesday, Feb 19
      - 
    * - 
      - Dippers (Andy T)
-     - `Slides <https://drive.google.com/file/d/1zVc4TpM_tMJJQQnGJ6mqAbDU5YFvyfmO/view?usp=drive_link>`__`
+     - `Slides <https://drive.google.com/file/d/1zVc4TpM_tMJJQQnGJ6mqAbDU5YFvyfmO/view?usp=drive_link>`__
    * - 
      - Image analysis (Aritra)
      - `Slides <https://drive.google.com/file/d/1M_z9W650Zf2l_g9S31Bmct91IJQEjG4N/view?usp=drive_link>`__
