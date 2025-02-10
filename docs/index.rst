@@ -80,8 +80,11 @@ Thursday, Feb 20
      - Response to Questions from Day 1 
      - 
    * - 9:30am - 10:00am
-     - Infrastructure Projects & Code Demonstration Session 2: FIBAD
-     - TODO
+     - Infrastructure Projects & Code Demonstration Session 2
+     -
+   * -
+     - FIBAD
+     - `PDF <https://drive.google.com/file/d/1ZvQFDS3vCqCIIN4UOlqikymwKkQxIe9q/view?usp=drive_link>`__ , `Notebook <https://github.com/lincc-frameworks/midpoint-review/blob/main/docs/notebooks/fibad/fibad_demo.ipynb>`__
    * - 10:00am - 11:00am
      - Incubator Projects & Code Demonstration Session 
      - `PDF <https://drive.google.com/file/d/1yj7tE9mRV_-qiPWgVC3urBiCDfBhLNPn/view?usp=drive_link>`__
