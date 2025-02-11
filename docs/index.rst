@@ -47,7 +47,7 @@ Wednesday, Feb 19
      - `Slides <https://drive.google.com/file/d/1ZAttrPqA4q3S7Qwxxz_A7JMlBZwDRefi/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/rail/rail_hsc.html>`__
    * - 
      - KBMOD
-     - Slides , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/kbmod/kbmod_usdf.html>`__
+     - `Slides <https://drive.google.com/file/d/1YeMIrz2sXRnmx7O_YUjgHndiel2R_Gd1/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/kbmod/kbmod_usdf.html>`__
    * - 3:00pm - 3:15pm
      - Coffee break
      - 
