@@ -4,7 +4,7 @@ HATS and LSDB
 Demonstration prepared for the MidPoint Review of LINCC Frameworks, Pittsburgh, 2025.
 This demo showcases working with HATS-partitioned survey catalogs via LSDB.
 
-Main references
+Main References
 ---------------------------------------------------------------
 
 * `Slide deck <https://drive.google.com/file/d/1R0KaTojKle0cdTo-XlXkLohx7DN_A8bt/view?usp=drive_link>`__

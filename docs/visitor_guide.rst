@@ -4,11 +4,11 @@ Visiting LINCC Frameworks at CMU
 Getting Around
 ---------------------------------------------------------------
 
-**Getting to town**
+**Getting to Town**
 
 PIT - Pittsburgh international airport. About 20-30 minute cab ride from campus. CMU campus is located in Pittsburgh's Oakland neighborhood.
 
-**Getting to the offices**
+**Getting to the Offices**
 
 CMU campus is old and hilly and dense. Often, the best way from A to B involves secret passageways. 
 If you tell your host where you're staying, we can meet you somewhere in the middle and escort you through campus.
@@ -84,6 +84,10 @@ COFFEE
 
 Perhaps the most important topic: where to get specialty coffee on-campus.
 
+**Nespresso**
+
+Nespresso machine with a variety of flavors available in the "LINCC Lounge", WEH, 8101.
+
 **La Prima Espresso**
 
 Two locations, neither require going outside:
@@ -97,12 +101,7 @@ Scaife Hall, 1st floor lobby.
 
 Some say it's better than La Prima, but you need ~1 minute outdoors.
 
-**Nespresso**
-
-Nespresso machine with a variety of flavors available in the "LINCC Lounge", WEH, 8101.
-
-
-CMU Campus considerations
+CMU Campus Considerations
 ---------------------------------------------------------------
 
 * Vaccine / mask policy on CMU campus
