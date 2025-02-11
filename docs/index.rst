@@ -96,7 +96,7 @@ Thursday, Feb 20
      - 
    * - 1:30pm - 2:30pm
      - Lessons for large-scale community software efforts
-     - `Slides <https://drive.google.com/file/d/1YlD3MLIKKt1HcD8wKClTGzTMbb1nOdxj/view?usp=drive_link>`__
+     - `Slides <https://drive.google.com/file/d/13zwUrwOLto57h5j9faFLJhSZmEUUlQSG/view?usp=drive_link>`__
    * - 2:30pm - 3:30pm
      - Overflow Time / Coffee & Informal Discussions
      - 
