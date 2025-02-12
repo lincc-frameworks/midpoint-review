@@ -38,7 +38,7 @@ Wednesday, Feb 19
      - 
    * - 
      - HATS and LSDB (Neven C.)
-     - `Slides <https://drive.google.com/file/d/1R0KaTojKle0cdTo-XlXkLohx7DN_A8bt/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/lsdb/Notebook_LSDB_HATS.html>`__
+     - `Slides <https://drive.google.com/file/d/1vJET02hSrwKhm9QsKhnW2ESVChMc56-5/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/lsdb/Notebook_LSDB_HATS.html>`__
    * - 
      - nested (Doug B.)
      - `Slides <https://drive.google.com/file/d/1aiwiw9CE-9sdy1kEsNEcMn8jQO7B34xE/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/nested/review_demo.html>`__
