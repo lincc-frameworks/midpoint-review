@@ -66,6 +66,21 @@ Wednesday, Feb 19
    * - 
      - HATS and LSDB Science Enabled (Konstantin M.)
      - `Slides <https://drive.google.com/file/d/1Foy999YoQppXSHSBRQNcRqXghYIE9qYM/view?usp=drive_link>`__
+   * - 4:15pm - 5:00pm
+     - Parallel Sessions
+     - 
+   * - 
+     - Closed Door Session for Review Committee
+     - 
+   * - 
+     - Closed Door Session for Early Career Researchers with SSci
+     - 
+   * - 5:00pm - 6:30pm
+     - Break
+     - 
+   * - 6:00pm - 9:00pm
+     - Dinner
+     - 
 
 Thursday, Feb 20
 ---------------------------------------------------------------
@@ -99,6 +114,15 @@ Thursday, Feb 20
      - `Slides <https://drive.google.com/file/d/13zwUrwOLto57h5j9faFLJhSZmEUUlQSG/view?usp=drive_link>`__
    * - 2:30pm - 3:30pm
      - Overflow Time / Coffee & Informal Discussions
+     - 
+   * - 3:30pm - 4:30pm
+     - Closed Door Session: Review Committee
+     - 
+   * - 4:30pm - 5:00pm
+     - Committee Returns with Report Out for SSci and Team
+     - 
+   * - 5:00pm
+     - End of program
      - 
 
 **(*)** Slide PDFs will be made available to the review committee, via this
