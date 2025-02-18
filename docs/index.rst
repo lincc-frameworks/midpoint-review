@@ -55,7 +55,7 @@ Wednesday, Feb 19
      - Spotlight Talks
      - 
    * - 
-     - Dippers (Andy T)
+     - Dippers (Andy T.)
      - `Slides <https://drive.google.com/file/d/1zVc4TpM_tMJJQQnGJ6mqAbDU5YFvyfmO/view?usp=drive_link>`__
    * - 
      - Image Analysis (Aritra G.)
