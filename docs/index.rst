@@ -25,10 +25,10 @@ Wednesday, Feb 19
      - Introduction to Project & Team 
      - 
    * - 9:30am - 11:00am
-     - Overview of Project Organization, Goals, & Progress (Andy C.)
+     - Overview of Project Organization, Goals, & Progress (Andy Connolly, Rachel Mandelbaum)
      - `Slides <https://drive.google.com/file/d/1zSym-zlkSws15sLGENhL4gogEOpmUrIY/view?usp=drive_link>`__
    * - 11:00am - 12:00pm
-     - Education & Community Training (Rachel M.)
+     - Education & Community Training (Rachel Mandelbaum, Andy Connolly)
      - `Slides <https://drive.google.com/file/d/1T8v_vXuykA6e4ZTy6r4wVTpd3UGo2dY2/view?usp=drive_link>`__
    * - 12:00pm - 1:00pm
      - Lunch break
@@ -37,16 +37,16 @@ Wednesday, Feb 19
      - Infrastructure Projects & Code Demonstration Session
      - 
    * - 
-     - HATS and LSDB (Neven C.)
+     - HATS and LSDB (Neven Caplar)
      - `Slides <https://drive.google.com/file/d/1vJET02hSrwKhm9QsKhnW2ESVChMc56-5/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/lsdb/Notebook_LSDB_HATS.html>`__
    * - 
-     - nested (Doug B.)
+     - nested (Doug Branton)
      - `Slides <https://drive.google.com/file/d/1aiwiw9CE-9sdy1kEsNEcMn8jQO7B34xE/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/nested/review_demo.html>`__
    * - 
-     - RAIL (Tianqing Z.)
+     - RAIL (Tianqing Zhang)
      - `Slides <https://drive.google.com/file/d/1ZAttrPqA4q3S7Qwxxz_A7JMlBZwDRefi/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/rail/rail_hsc.html>`__
    * - 
-     - KBMOD (Colin C.)
+     - KBMOD (Colin Chandler)
      - `Slides <https://drive.google.com/file/d/1YeMIrz2sXRnmx7O_YUjgHndiel2R_Gd1/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/kbmod/kbmod_usdf.html>`__
    * - 3:00pm - 3:15pm
      - Coffee break
@@ -55,16 +55,16 @@ Wednesday, Feb 19
      - Spotlight Talks
      - 
    * - 
-     - Dippers (Andy T)
+     - Dippers (Andy Tzanidakis)
      - `Slides <https://drive.google.com/file/d/1zVc4TpM_tMJJQQnGJ6mqAbDU5YFvyfmO/view?usp=drive_link>`__
    * - 
-     - Image Analysis (Aritra G.)
+     - Image Analysis (Aritra Ghosh)
      - `Slides <https://drive.google.com/file/d/1M_z9W650Zf2l_g9S31Bmct91IJQEjG4N/view?usp=drive_link>`__
    * - 
-     - RAIL (Alice S.)
+     - RAIL (Alice Crafford)
      - `Slides <https://drive.google.com/file/d/1pQCGQNq6ftB5byIzbY7c799Q7LjJHO9A/view?usp=drive_link>`__
    * - 
-     - HATS and LSDB Science Enabled (Konstantin M.)
+     - HATS and LSDB Science Enabled (Konstantin Malanchev)
      - `Slides <https://drive.google.com/file/d/1Foy999YoQppXSHSBRQNcRqXghYIE9qYM/view?usp=drive_link>`__
    * - 4:15pm - 5:00pm
      - Parallel Sessions
@@ -98,19 +98,19 @@ Thursday, Feb 20
      - Infrastructure Projects & Code Demonstration (Continued)
      -
    * -
-     - FIBAD (Drew O.)
+     - FIBAD (Drew Oldag)
      - `Slides <https://drive.google.com/file/d/1ZvQFDS3vCqCIIN4UOlqikymwKkQxIe9q/view?usp=drive_link>`__ , `Notebook <https://linccfw-review.readthedocs.io/en/latest/notebooks/fibad/fibad_demo.html>`__
    * - 10:00am - 11:00am
-     - Incubator Projects & Code Demonstration Session (Jeremy K.)
+     - Incubator Projects & Code Demonstration Session (Jeremy Kubica)
      - `Slides <https://drive.google.com/file/d/1yj7tE9mRV_-qiPWgVC3urBiCDfBhLNPn/view?usp=drive_link>`__
    * - 11:00am - 12:00pm
-     - Challenges Faced and Mitigations Implemented (Jeremy K.)
+     - Challenges Faced and Mitigations Implemented (Jeremy Kubica)
      - `Slides <https://drive.google.com/file/d/1pyPH4vubE13WEjmuO-QqaXr1bFTltcH1/view?usp=drive_link>`__
    * - 12:00pm - 1:30pm
      - Lunch break + Group Photo 
      - 
    * - 1:30pm - 2:30pm
-     - Lessons for Large-Scale Community Software Efforts
+     - Lessons for Large-Scale Community Software Efforts (Andrew Connolly, Rachel Mandelbaum)
      - `Slides <https://drive.google.com/file/d/13zwUrwOLto57h5j9faFLJhSZmEUUlQSG/view?usp=drive_link>`__
    * - 2:30pm - 3:30pm
      - Overflow Time / Coffee & Informal Discussions
