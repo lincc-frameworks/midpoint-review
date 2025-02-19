@@ -79,7 +79,7 @@ Wednesday, Feb 19
      - Break
      - 
    * - 6:30pm - 9:00pm
-     - Dinner (Butterjoint, `Google maps <https://maps.app.goo.gl/iUJCS3UmdEAf22TG8>`_)
+     - Dinner — Butterjoint, `Google maps <https://maps.app.goo.gl/iUJCS3UmdEAf22TG8>`_
      - 
 
 Thursday, Feb 20
